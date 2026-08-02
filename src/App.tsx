@@ -3,7 +3,7 @@ import Header from './components/Header'
 import Hero from './components/Hero'
 import Marquee from './components/Marquee'
 import FeaturedProjects from './components/FeaturedProjects'
-import ContentCreationSection from './components/ContentCreationSection'
+// import ContentCreationSection from './components/ContentCreationSection'
 import CTASection from './components/CTASection'
 import { SmoothCursor } from '@/components/ui/smooth-cursor'
 
