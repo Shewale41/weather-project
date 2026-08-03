@@ -33,7 +33,7 @@ const projects: ProjectItem[] = [
     repoLink: "https://github.com/Shewale41/floatchat",
   },
   {
-    src: "/namma_weather.png",
+    src: "/numpy.png",
     alt: "Blockchain-Based Disaster Relief System",
     title: "Sahaya",
     description: "decentralized system for transparent disaster relief fund distribution using Solidity smart contracts for campaign management, NGO verification, and fund tracking.",

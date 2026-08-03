@@ -39,13 +39,13 @@ export default function Header() {
         <div className="menu-contact">
           <a href="mailto:shewalegopal4119@gmail.com" className="menu-email">shewalegopal4119@gmail.com</a>
           <div className="menu-socials">
-            {/* <a href="https://instagram.com/dripstone2" target="_blank" rel="noopener noreferrer">Instagram</a> */}
+            {/* <a href="https://instagram.com/gopalshewale41" target="_blank" rel="noopener noreferrer">Instagram</a> */}
             <a href="https://www.linkedin.com/in/gopal-shewale-a182052b5" target="_blank" rel="noopener noreferrer">LinkedIn</a>
             <a href="https://github.com/Shewale41" target="_blank" rel="noopener noreferrer">GitHub</a>
           </div>
         </div>
         <div style={{ marginTop: '32px' }}>
-          <a href="mailto:dripstone024@gmail.com" className="menu-cta-btn" style={{ display: 'inline-flex', textDecoration: 'none' }}>
+          <a href="mailto:shewalegopal4119@gmail.com" className="menu-cta-btn" style={{ display: 'inline-flex', textDecoration: 'none' }}>
             <span className="menu-cta-bg"></span>
             <span className="menu-cta-text">Let's talk</span>
             <span className="menu-cta-circle">

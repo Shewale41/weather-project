@@ -55,10 +55,10 @@ export default function CTASection() {
                 <span className="h-1 w-1 rounded-full bg-white/20" />
                 <a href="https://github.com/Shewale41" target="_blank" rel="noopener noreferrer" className="text-[#F4F1E8] hover:text-[#75C5DE] transition-colors">GitHub</a>
                 <span className="hidden sm:inline h-1 w-1 rounded-full bg-white/20" />
-                {/* <a href="https://instagram.com/dripstone2" target="_blank" rel="noopener noreferrer" className="text-[#F4F1E8] hover:text-[#75C5DE] transition-colors hidden sm:inline">Instagram</a> */}
+                {/* <a href="https://instagram.com/gopalshewale41" target="_blank" rel="noopener noreferrer" className="text-[#F4F1E8] hover:text-[#75C5DE] transition-colors hidden sm:inline">Instagram</a> */}
               </div>
               {/* Instagram alone on mobile — centered beneath the row */}
-              {/* <a href="https://instagram.com/dripstone2" target="_blank" rel="noopener noreferrer" className="text-[#F4F1E8] hover:text-[#75C5DE] transition-colors sm:hidden">Instagram</a> */}
+              {/* <a href="https://instagram.com/gopalshewale41" target="_blank" rel="noopener noreferrer" className="text-[#F4F1E8] hover:text-[#75C5DE] transition-colors sm:hidden">Instagram</a> */}
             </div>
           </div>
         </MagicCard>
