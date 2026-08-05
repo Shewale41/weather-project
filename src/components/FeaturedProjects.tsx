@@ -33,12 +33,21 @@ const projects: ProjectItem[] = [
     repoLink: "https://github.com/Shewale41/floatchat",
   },
   {
+    src: "/elevate_thumbnail.png",
+    alt: "SaaS Landing Page",
+    title: "Elevate",
+    description: "a visually engaging and fully responsive SaaS landing page with smooth animations and transitions using Next.js, Tailwind CSS, and Framer Motion.",
+    demoLink: "https://elevate-lemon-six.vercel.app",
+    demoLabel: "Demo Link",
+    repoLink: "https://github.com/Shewale41/Amazing-Saas-Landing-Page-",
+  },
+  {
     src: "/numpy.png",
     alt: "Blockchain-Based Disaster Relief System",
     title: "Sahaya",
     description: "decentralized system for transparent disaster relief fund distribution using Solidity smart contracts for campaign management, NGO verification, and fund tracking.",
     demoLink: "https://github.com/Shewale41/sahaya",
-    demoLabel: "Report link",
+    demoLabel: "Repo link",
     repoLink: "https://github.com/Shewale41/sahaya",
   },
   {
